@@ -1,0 +1,32 @@
+#loggadiv {
+	width: 1200px;
+	height: 120pX;
+	margin: auto;
+	background-color: #eee;
+
+}
+
+#hjälp {
+	float: right;
+}
+
+#logga {
+	float: left;
+	margin-top: 75px;
+}
+
+#bg {
+	width: 1200px;
+	height: 2000px;
+	background-color: white;
+	margin: auto;
+	margin-top: -20px;
+}
+
+body {
+	background-color: lightgray;
+}
+
+h1 {
+	text-align: center;
+}
