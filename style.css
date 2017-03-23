@@ -3,7 +3,7 @@
 	height: 120pX;
 	margin: auto;
 	background-color: #eee;
-
+	font-family: 'Exo', sans-serif;
 }
 
 #hjälp {
@@ -21,6 +21,7 @@
 	background-color: white;
 	margin: auto;
 	margin-top: -20px;
+	font-family: 'Exo', sans-serif;
 }
 
 body {
@@ -29,4 +30,41 @@ body {
 
 h1 {
 	text-align: center;
+}
+
+.navbar {
+	background-color: #121212;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 7px;
+	margin-left: 12%;
+	margin-right: 12%;
+}
+
+.navbarsize {
+	width: 297px;
+	font-family: "Arial";
+	font-size: 20px;
+	text-align: center;
+}
+
+.navbarsize:hover, .navcolor:hover  {
+	background: black; !important
+}
+
+a.navcolor, a.navcolor:hover {
+	color: white; !important
+}
+
+.navbar-brand {
+	font-family: "Arial";
+	font-size: 15px;
+}
+
+#main {
+	font-family: 'Exo', sans-serif;
+}
+
+a {
+	font-family: 'Exo', sans-serif;
 }
