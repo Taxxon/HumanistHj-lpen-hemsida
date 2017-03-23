@@ -1,0 +1,30 @@
+.navbar {
+	background-color: #121212;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 7px;
+}
+
+.navbarsize {
+	width: 150px;
+	font-family: "Arial";
+	font-size: 15px;
+	text-align: center;
+}
+
+.navbarsize:hover, .navcolor:hover  {
+	background: black; !important
+}
+
+a.navcolor, a.navcolor:hover {
+	color: white; !important
+}
+
+.navbar-brand {
+	font-family: "Arial";
+	font-size: 15px;
+}
+
+#main {
+
+}
