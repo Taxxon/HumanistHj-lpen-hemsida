@@ -1,14 +1,59 @@
+#loggadiv {
+	width: 1200px;
+	height: 120pX;
+	margin: auto;
+	background-color: #eee;
+	font-family: 'Exo', sans-serif;
+}
+
+#hjälp {
+	float: right;
+
+	padding-right: 100px;
+	padding-top: 5px;
+}
+
+#logga {
+	float: left;
+	margin-top: 75px;
+}
+
+#bg {
+	width: 1200px;
+	height: 2000px;
+	background-color: white;
+	margin: auto;
+	margin-top: -20px;
+	font-family: 'Exo', sans-serif;
+}
+
+body {
+	background-color: lightgray;
+}
+
+#titel  {
+	text-align: center;
+	padding-top: 50px;
+}
+
+#txt {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
 .navbar {
 	background-color: #121212;
 	padding-top: 3px;
 	padding-bottom: 3px;
 	padding-left: 7px;
+	margin-left: 12%;
+	margin-right: 12%;
 }
 
 .navbarsize {
-	width: 150px;
+	width: 298px;
 	font-family: "Arial";
-	font-size: 15px;
+	font-size: 20px;
 	text-align: center;
 }
 
@@ -26,5 +71,36 @@ a.navcolor, a.navcolor:hover {
 }
 
 #main {
+	font-family: 'Exo', sans-serif;
+}
 
+a {
+	font-family: 'Exo', sans-serif;
+}
+
+.flex-container {
+ 	display: -webkit-flex;
+    display: flex;
+    width: 1100px;
+    height: 310px;
+    background-color: white;
+    margin: auto;
+    }
+
+.flex-item {
+    background-color: #121212;
+    width: 280px;
+    height: 280px;
+    margin: 40px;
+    font-size: 20px;
+    }
+
+.bilder3 {
+	width: 280px;
+	padding-bottom: 20px;
+}
+
+#pictureheader {
+	text-align: center;
+	padding-top: 20px;
 }
