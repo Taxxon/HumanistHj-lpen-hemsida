@@ -1,0 +1,80 @@
+#loggadiv {
+	width: 1200px;
+	height: 120pX;
+	margin: auto;
+	background-color: #eee;
+	font-family: 'Exo', sans-serif;
+}
+
+#hjälp {
+	float: right;
+
+	padding-right: 100px;
+	padding-top: 5px;
+}
+
+#logga {
+	float: left;
+	margin-top: 75px;
+}
+
+#bg {
+	width: 1200px;
+	height: 2000px;
+	background-color: white;
+	margin: auto;
+	margin-top: -20px;
+	font-family: 'Exo', sans-serif;
+}
+
+body {
+	background-image: url("bg.jpg");
+	background-attachment: fixed;
+}
+
+#titel  {
+	text-align: center;
+	padding-top: 50px;
+}
+
+#txt {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.navbar {
+	background-color: #121212;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 7px;
+	margin-left: 11.26%;
+	margin-right: 11.26%;
+}
+
+.navbarsize {
+	width: 290px;
+	font-family: "Arial";
+	font-size: 20px;
+	text-align: center;
+}
+
+.navbarsize:hover, .navcolor:hover  {
+	background: black; !important
+}
+
+a.navcolor, a.navcolor:hover {
+	color: white; !important
+}
+
+.navbar-brand {
+	font-family: "Arial";
+	font-size: 15px;
+}
+
+#main {
+	font-family: 'Exo', sans-serif;
+}
+
+a {
+	font-family: 'Exo', sans-serif;
+}
