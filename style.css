@@ -8,8 +8,9 @@
 
 #hjälp {
 	float: right;
-	padding-right: 10px;
-	padding-top: 20px;
+
+	padding-right: 100px;
+	padding-top: 5px;
 }
 
 #logga {
@@ -50,7 +51,7 @@ body {
 }
 
 .navbarsize {
-	width: 297px;
+	width: 298px;
 	font-family: "Arial";
 	font-size: 20px;
 	text-align: center;
