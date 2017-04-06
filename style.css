@@ -99,15 +99,15 @@ a {
 }
 
 .flex-item {
-    background-color: #121212;
-    width: 280px;
+    background-color: white;
+    width: 23%;
     height: 280px;
-    margin: 40px;
+    margin: 5%;
     font-size: 20px;
     }
 
 .bilder3 {
-	width: 280px;
+	width: 100%;
 	padding-bottom: 20px;
 }
 
