@@ -64,12 +64,13 @@ body {
 }
 
 .navbar_country {
-	background-color: #121212;
+	background-color: #161616;
 	padding-top: 3px;
 	padding-bottom: 3px;
 	padding-left: 7px;
 	margin-left: 12%;
 	margin-right: 12%;
+	margin-bottom: 10px;
 }
 
 .navbarsize {
@@ -81,6 +82,7 @@ body {
 
 .navbarsize_country {
 	width: 200px;
+	height: 15px;
 	font-family: "Arial";
 	font-size: 15px;
 	text-align: center;
