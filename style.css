@@ -98,7 +98,10 @@ a {
     }
 
 #text {
-	border:3px; border-style:solid; border-color:#121212; padding: 1em;
+	border:3px; 
+	border-style:solid; 
+	border-color:#121212; 
+	padding: 1em;
 }
 
 .flex-item {
@@ -131,4 +134,8 @@ a {
 #foottxt {
 	font-size: 20px;
 	text-align: center;
+}
+
+a {
+
 }
