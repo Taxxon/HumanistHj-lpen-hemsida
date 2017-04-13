@@ -1,0 +1,181 @@
+#loggadiv {
+	width: 76%;
+	height: 120px;
+	margin: auto;
+	background-color: #eee;
+	font-family: 'Exo', sans-serif;
+}
+
+#hjälp {
+	float: right;
+	width: 30%;
+	height: 80%;
+}
+
+#logga {
+	float: left;
+	margin top: 10px;
+	width: 45%;
+}
+
+#bg {
+	width: 76%;
+	height: 1400px;
+	background-color: white;
+	margin: auto;
+	margin-top: -20px;
+	font-family: 'Exo', sans-serif;
+}
+
+body {
+	background-image: url("bg.jpg");
+	background-attachment: fixed;
+}
+
+#titel  {
+	text-align: center;
+	padding-top: 50px;
+}
+
+#txt {
+	padding-left: 3%;
+	padding-right: 3%;
+}
+
+.navbar {
+	background-color: #121212;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 0.50%;
+	margin-left: 12%;
+	margin-right: 12%;
+}
+
+.navbar_country {
+	background-color: #121212;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 7px;
+	margin-left: 12%;
+	margin-right: 12%;
+	margin-bottom: 10px;
+}
+
+.navbarsize {
+	width: 25%;
+	font-size: 20px;
+	text-align: center;
+}
+
+.navsize {
+	font-size: 15px;
+}
+
+.ul1 {
+	width: 100%;
+}
+
+.navbarsize:hover, .navcolor:hover  {
+	background: black; !important
+}
+
+a.navcolor, a.navcolor:hover {
+	color: white; !important
+}
+
+.navbarsize_country:hover, .navcolor_country:hover  {
+	background-color: black; !important
+}
+
+.navbar-brand {
+	font-family: "Arial";
+	font-size: 15px;
+}
+
+#main {
+	font-family: 'Exo', sans-serif;
+}
+
+a {
+	font-family: 'Exo', sans-serif;
+}
+
+#underBild {
+	width: 95%;
+
+}
+
+.flex-container {
+ 	display: -webkit-flex;
+    display: flex;
+    width: 90%;
+    height: 310px;
+    background-color: white;
+    margin: auto;
+}
+
+#text {
+	border:3px; 
+	border-style:solid; 
+	border-color:#121212; 
+	padding: 1em;
+}
+
+.flex-item {
+    background-color: white;
+    width: 23%;
+    height: 280px;
+    margin: 5%;
+    font-size: 20px;
+    }
+
+.bilder3 {
+	width: 100%;
+	padding-bottom: 20px;
+}
+
+#pictureheader {
+	text-align: center;
+	padding-top: 20px;
+}
+
+#footer {
+	float: bottom;
+	background-color: gray;
+	margin-right: 12%;
+	margin-left: 12%;
+	padding-top: 4px;
+	padding-bottom:4px;
+}
+
+#foottxt {
+	font-size: 20px;
+	text-align: center;
+}
+
+a {
+
+}
+
+#Var_Hjalp_txt {
+	text-align: center;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#Var_Hjalp_titel  {
+	text-align: center;
+	padding-top: 50px;
+}
+
+.txtdiv{
+	display: inline-flex;
+	width: 100%;
+	height: 250px;
+}
+
+.txtdiv h3 {
+	width: 400px;
+	height: auto;
+	margin: auto;
+}
