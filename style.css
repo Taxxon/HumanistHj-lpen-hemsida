@@ -8,16 +8,19 @@
 
 #hjälp {
 	float: right;
+	width: 30%;
+	height: 80%;
 }
 
 #logga {
 	float: left;
-	margin-top: 10px;
+	margin top: 10px;
+	width: 45%;
 }
 
 #bg {
 	width: 76%;
-	height: 1200px;
+	height: 1400px;
 	background-color: white;
 	margin: auto;
 	margin-top: -20px;
@@ -81,7 +84,7 @@ a {
 }
 
 #underBild {
-	width: 95%
+	width: 95%;
 
 }
 
